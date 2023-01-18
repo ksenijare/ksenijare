@@ -3,7 +3,7 @@
 <h2> 👨‍💻 My Projects:</h2>
 
 
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C# (.NET)</b>
   -   - [Fitness Center App](https://github.com/ksenijare/FitnessCenterWeb1)
   
 <h2> 🤳 Connect with me:</h2>
