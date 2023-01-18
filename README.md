@@ -4,7 +4,7 @@
 
 
 - <b>C# (.NET Desktop Applications)</b>
-  -   - [Fitness Center App]()
+  -   - [Fitness Center App](https://github.com/ksenijare/FitnessCenterWeb1)
   
 <h2> 🤳 Connect with me:</h2>
 
